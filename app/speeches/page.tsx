@@ -7,7 +7,9 @@ export default function Speeches() {
       date: "February 20, 2026",
       location: "Bharat Mandapam, New Delhi, India",
       role: "Panelist",
-      organization: "RAND Europe"
+      organization: "RAND Europe",
+      socialLinks: ["https://twitter.com/example/status/123"],
+      photos: ["https://example.com/photo1.jpg"]
     },
     {
       id: 2,
@@ -16,7 +18,9 @@ export default function Speeches() {
       date: "February 18, 2026",
       location: "Bharat Mandapam, New Delhi, India",
       role: "Speaker",
-      organization: "ICAIN and Swissnex"
+      organization: "ICAIN and Swissnex",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 3,
@@ -25,7 +29,9 @@ export default function Speeches() {
       date: "February 16, 2026",
       location: "Bharat Mandapam, New Delhi, India",
       role: "Panelist",
-      organization: "PrivaSapien"
+      organization: "PrivaSapien",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 4,
@@ -34,7 +40,9 @@ export default function Speeches() {
       date: "February 16, 2026",
       location: "Bharat Mandapam, New Delhi, India",
       role: "Panelist",
-      organization: "Research ICT Africa"
+      organization: "Research ICT Africa",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 5,
@@ -43,7 +51,9 @@ export default function Speeches() {
       date: "February 2, 2026",
       location: "Andhra Pradesh",
       role: "Panellist",
-      organization: "Vignan University, Andhra Pradesh; Coalition for Responsible Evolution of AI (CoRE-AI)"
+      organization: "Vignan University, Andhra Pradesh; Coalition for Responsible Evolution of AI (CoRE-AI)",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 6,
@@ -52,7 +62,9 @@ export default function Speeches() {
       date: "January 22, 2026",
       location: "The Leela Palace, Chennai",
       role: "Speaker",
-      organization: "Factly in collaboration with Meta"
+      organization: "Factly in collaboration with Meta",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 7,
@@ -61,7 +73,9 @@ export default function Speeches() {
       date: "December 23, 2025",
       location: "College of Engineering, Guindy, Anna University, Chennai",
       role: "Speaker",
-      organization: "IEEE Madras Section Technical Activity Sub-Committee"
+      organization: "IEEE Madras Section Technical Activity Sub-Committee",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 8,
@@ -70,7 +84,9 @@ export default function Speeches() {
       date: "December 22, 2025",
       location: "SSN College of Engineering, Chennai",
       role: "Speaker",
-      organization: "SSN College of Engineering"
+      organization: "SSN College of Engineering",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 9,
@@ -79,7 +95,9 @@ export default function Speeches() {
       date: "December 19, 2025",
       location: "IIT Madras, Chennai",
       role: "Moderator",
-      organization: "CeRAI"
+      organization: "CeRAI",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 10,
@@ -88,7 +106,9 @@ export default function Speeches() {
       date: "November 25, 2025",
       location: "Cape Town",
       role: "Speaker",
-      organization: "Observer Research Foundation (India); Thabo Mbeki Foundation"
+      organization: "Observer Research Foundation (India); Thabo Mbeki Foundation",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 11,
@@ -97,7 +117,9 @@ export default function Speeches() {
       date: "November 25, 2025",
       location: "Cape Town",
       role: "Speaker",
-      organization: "Observer Research Foundation (India); Thabo Mbeki Foundation"
+      organization: "Observer Research Foundation (India); Thabo Mbeki Foundation",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 12,
@@ -106,7 +128,9 @@ export default function Speeches() {
       date: "November 6, 2025",
       location: "India Habitat Centre, New Delhi",
       role: "Panelist",
-      organization: "TIACon2025"
+      organization: "TIACon2025",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 13,
@@ -115,7 +139,9 @@ export default function Speeches() {
       date: "September 29, 2025",
       location: "Kingston Engineering College, Vellore",
       role: "Keynote speaker",
-      organization: "Kingston Engineering College"
+      organization: "Kingston Engineering College",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 14,
@@ -124,7 +150,9 @@ export default function Speeches() {
       date: "September 24, 2025",
       location: "SRM IST Chennai, Chennai",
       role: "Session facilitator / invited speaker",
-      organization: "Department of Data Science & Business Systems, SRM IST Chennai"
+      organization: "Department of Data Science & Business Systems, SRM IST Chennai",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 15,
@@ -133,7 +161,9 @@ export default function Speeches() {
       date: "April 2025",
       location: "SRM Institute of Science and Technology, Chennai",
       role: "Speaker",
-      organization: "SRM Institute of Science and Technology"
+      organization: "SRM Institute of Science and Technology",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 16,
@@ -142,7 +172,9 @@ export default function Speeches() {
       date: "March 18, 2025",
       location: "New Delhi",
       role: "Roundtable participant",
-      organization: "Google; CeRAI; BCG"
+      organization: "Google; CeRAI; BCG",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 17,
@@ -151,7 +183,9 @@ export default function Speeches() {
       date: "March 2025",
       location: "Bangalore",
       role: "Lightning talk speaker",
-      organization: "Tattle"
+      organization: "Tattle",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 18,
@@ -160,7 +194,9 @@ export default function Speeches() {
       date: "February 2025",
       location: "Kolkata",
       role: "Paper Presenter / Speaker",
-      organization: "Observer Research Foundation (India); Thabo Mbeki Foundation"
+      organization: "Observer Research Foundation (India); Thabo Mbeki Foundation",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 19,
@@ -169,7 +205,9 @@ export default function Speeches() {
       date: "February 2025",
       location: "SSN College of Engineering, Chennai",
       role: "Speaker",
-      organization: "SSN College of Engineering"
+      organization: "SSN College of Science and Technology",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 20,
@@ -178,7 +216,9 @@ export default function Speeches() {
       date: "February 3, 2025",
       location: "Ministry of Electronics and Information Technology (MeitY), New Delhi",
       role: "Trainer / podcast speaker",
-      organization: "Capacity Building Division, National e-Governance Division (NeGD)"
+      organization: "Capacity Building Division, National e-Governance Division (NeGD)",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 21,
@@ -187,7 +227,9 @@ export default function Speeches() {
       date: "December 17-20, 2024",
       location: "IIT Jodhpur, Jodhpur",
       role: "Exhibitor",
-      organization: "CODS - COMAD 2024"
+      organization: "CODS - COMAD 2024",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 22,
@@ -196,7 +238,9 @@ export default function Speeches() {
       date: "December 13, 2024",
       location: "New Delhi",
       role: "Roundtable participant",
-      organization: "The Dialogue in partnership with Cyril Amarchand Mangaldas"
+      organization: "The Dialogue in partnership with Cyril Amarchand Mangaldas",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 23,
@@ -205,7 +249,9 @@ export default function Speeches() {
       date: "November 12-13, 2024",
       location: "Aapti Institute, Bangalore",
       role: "Participant",
-      organization: "Aapti Institute"
+      organization: "Aapti Institute",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 24,
@@ -214,7 +260,9 @@ export default function Speeches() {
       date: "October 5, 2024",
       location: "Anna University, Chennai",
       role: "Panelist",
-      organization: "IEEE Women in Engineering"
+      organization: "IEEE Women in Engineering",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 25,
@@ -223,7 +271,9 @@ export default function Speeches() {
       date: "September 2024",
       location: "Neemrana Fort Palace, New Delhi",
       role: "Participant",
-      organization: "UK RAI Sandpit"
+      organization: "UK RAI Sandpit",
+      socialLinks: [],
+      photos: []
     },
     {
       id: 26,
@@ -232,7 +282,9 @@ export default function Speeches() {
       date: "September 12, 2024",
       location: "SSN College of Engineering, Chennai",
       role: "Speaker",
-      organization: "AICTE-approved ATAL Faculty Development Program"
+      organization: "AICTE-approved ATAL Faculty Development Program",
+      socialLinks: [],
+      photos: []
     }
   ];
 
@@ -260,6 +312,50 @@ export default function Speeches() {
                 <p className="text-sm text-gray-600 dark:text-gray-400">{speech.location}</p>
               </div>
             </div>
+
+            {/* Social Media Links */}
+            {speech.socialLinks && speech.socialLinks.length > 0 && (
+              <div className="mb-4">
+                <h4 className="text-sm font-semibold text-gray-700 dark:text-gray-300 mb-2">Social Media Posts:</h4>
+                <div className="flex flex-wrap gap-2">
+                  {speech.socialLinks.map((link, index) => (
+                    <a
+                      key={index}
+                      href={link}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center px-3 py-1 text-xs bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300 rounded-full hover:bg-blue-200 dark:hover:bg-blue-800 transition"
+                    >
+                      🔗 Post {index + 1}
+                    </a>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Photos */}
+            {speech.photos && speech.photos.length > 0 && (
+              <div className="mb-4">
+                <h4 className="text-sm font-semibold text-gray-700 dark:text-gray-300 mb-2">Event Photos:</h4>
+                <div className="grid grid-cols-2 md:grid-cols-3 gap-2">
+                  {speech.photos.map((photo, index) => (
+                    <a
+                      key={index}
+                      href={photo}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block"
+                    >
+                      <img
+                        src={photo}
+                        alt={`Event photo ${index + 1}`}
+                        className="w-full h-20 object-cover rounded-lg hover:opacity-80 transition"
+                      />
+                    </a>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
         ))}
       </div>
