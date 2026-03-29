@@ -45,6 +45,46 @@ npm run dev
 
 Visit `http://localhost:3000` to see your portfolio.
 
+## Google Sheets Integration
+
+The portfolio can dynamically load projects data from Google Sheets. To set this up:
+
+### 1. Google Cloud Setup
+
+1. Go to [Google Cloud Console](https://console.cloud.google.com/)
+2. Create a new project or select an existing one
+3. Enable the Google Sheets API:
+   - Go to "APIs & Services" > "Library"
+   - Search for "Google Sheets API" and enable it
+
+### 2. Create Service Account
+
+1. Go to "APIs & Services" > "Credentials"
+2. Click "Create Credentials" > "Service Account"
+3. Fill in the details and create the account
+4. Create a JSON key for the service account and download it
+
+### 3. Share Google Sheet
+
+1. Open your Google Sheet (ID: `1b3C54taIcGK_vcdH0KucBVVS__DLxHBx`)
+2. Click "Share" and add the service account email as an editor
+
+### 4. Environment Setup
+
+1. Copy `.env.local.example` to `.env.local`
+2. Replace the `GOOGLE_SHEETS_CREDENTIALS` value with your service account JSON (as a single line)
+
+### 5. Sheet Structure
+
+Your Google Sheet should have a "Projects" tab with columns:
+- Column A: Title
+- Column B: Description
+- Column C: Tags (comma-separated)
+- Column D: Link (optional)
+- Column E: Status (optional)
+- Column F: Year (optional)
+- Column G: Collaborators (comma-separated, optional)
+
 ## Project Structure
 
 ```
