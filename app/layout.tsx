@@ -5,8 +5,8 @@ import Footer from '@/components/Footer';
 import { RootThemeProvider } from '@/components/RootThemeProvider';
 
 export const metadata: Metadata = {
-  title: 'Your Name - Portfolio',
-  description: 'Professional portfolio showcasing research, publications, and credentials.',
+  title: 'Geetha Raju - AI Governance Expert',
+  description: 'AI Governance Expert specializing in responsible AI adoption, policy frameworks, and institutional readiness for scientific AI at scale.',
 };
 
 export default function RootLayout({

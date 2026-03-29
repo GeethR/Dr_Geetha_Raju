@@ -9,7 +9,7 @@ export default function Home() {
           Welcome to My Portfolio
         </h1>
         <p className="text-xl text-gray-600 dark:text-gray-400 mb-8 max-w-2xl mx-auto">
-          Showcasing my research, publications, academic credentials, and professional achievements.
+          AI Governance Expert specializing in responsible AI adoption, policy frameworks, and institutional readiness for scientific AI at scale.
         </p>
         <div className="flex gap-4 justify-center flex-wrap">
           <Link
@@ -38,8 +38,8 @@ export default function Home() {
           <div className="text-gray-600 dark:text-gray-400">Major Projects</div>
         </div>
         <div className="bg-indigo-50 dark:bg-indigo-900/20 p-8 rounded-lg text-center">
-          <div className="text-4xl font-bold text-indigo-600 dark:text-indigo-400 mb-2">20+</div>
-          <div className="text-gray-600 dark:text-gray-400">Invited Speeches</div>
+          <div className="text-4xl font-bold text-indigo-600 dark:text-indigo-400 mb-2">26+</div>
+          <div className="text-gray-600 dark:text-gray-400">Invited Speeches & Events</div>
         </div>
         <div className="bg-indigo-50 dark:bg-indigo-900/20 p-8 rounded-lg text-center">
           <div className="text-4xl font-bold text-indigo-600 dark:text-indigo-400 mb-2">15+</div>

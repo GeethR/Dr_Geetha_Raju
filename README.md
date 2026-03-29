@@ -1,15 +1,15 @@
-# Portfolio Website
+# Geetha Raju - AI Governance Portfolio
 
-A modern, responsive portfolio website built with Next.js, TypeScript, and Tailwind CSS.
+A modern, responsive portfolio website for Geetha Raju, AI Governance Expert specializing in responsible AI adoption, policy frameworks, and institutional readiness for scientific AI at scale.
 
-## Features
+## About
 
-- 🎨 Dark mode support with next-themes
-- 📱 Fully responsive design
-- ⚡ Fast static generation with Next.js
-- 🔍 SEO optimized
-- 📄 Multiple sections: Projects, Publications, Credentials, Speeches, Contact
-- 🔗 Easy navigation and search functionality
+This portfolio showcases Geetha Raju's extensive work in AI governance, featuring:
+- **26+ Invited Speeches & Events** (2024-2026)
+- AI policy frameworks and responsible AI adoption
+- International collaborations and panel discussions
+- Academic and industry partnerships
+- Research in AI infrastructure and governance
 
 ## Tech Stack
 
